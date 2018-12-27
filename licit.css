@@ -1,0 +1,26 @@
+body {
+  background-color: #fcfcfc;
+  font-family: Open Sans, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+a {
+  color: #2222ff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0000ff;
+  background-color: #aaaaff;
+}
