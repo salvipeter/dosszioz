@@ -226,9 +226,9 @@ __ Válaszlicitek_
 - `3/4 „szín”`__ / 5 olcsó: 5-11 Fp, 20-as szabály nem teljesül, min. hetes szín,
   nincs 2 külső magasfigura (A/K), 2-3-4 szabály teljesül, azaz:
 
-    - bellben mans ellen max. kettőt, 
-    - bellben bell ellen, vagy mansban mans ellen max. hármat
-    - mansban bell ellen max. négyet bukhatunk.
+  - bellben mans ellen max. kettőt, 
+  - bellben bell ellen, vagy mansban mans ellen max. hármat
+  - mansban bell ellen max. négyet bukhatunk.
 
 - `3 szan`__: min. hetes olcsó zárt szín (AKQJxxx / AKQxxxxx), 
   nincs külső magasfigura, nincs színhiány, nincs négyes nemes

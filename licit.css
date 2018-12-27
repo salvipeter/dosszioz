@@ -24,3 +24,7 @@ a:hover {
   color: #0000ff;
   background-color: #aaaaff;
 }
+
+ul {
+  padding: 0 0 0 1.5em;
+}
