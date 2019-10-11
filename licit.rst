@@ -420,7 +420,7 @@ __ `Az induló viszonválaszai 2 szan indulás után`_
 - 4 káró (Transzfer): Min. hatos kőr, min. 5 Fp
 - 4 kőr (Transzfer): Min. hatos pikk, min. 5 Fp
 - 4 pikk: Legalább 5-5 az olcsó színekben, gémet szeretne játszani
-- 4 szan: 10-11 Fp, egyenletes elosztás, invit 6 szanra
+- 4 szan: 12 Fp, egyenletes elosztás, invit 6 szanra
 - 5 szan: 15-16 Fp, egyenletes elosztás, invit 7 szanra, kényszerítő
 - 6 szan: 12-14 Fp
 - 7 szan: Min. 17 Fp
@@ -856,7 +856,7 @@ A válaszoló viszonválaszai 1 szan indulás esetén
 
   - Gémerős (10-11 Fp/Ap-tól): 
 
-    - Gémbemondás
+    - Gémbemondás (színtalálkozás esetén max. 8 vesztővel)
     - Új szín a hármas magasságon: Min. ötös szín, nincs találkozás
       (Ha ez a szín minor, akkor legyen erős: KQJ9x vagy KQTxxx)
     - `4 treff`__: Gerber-ászkérdés
