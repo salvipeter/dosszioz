@@ -485,7 +485,7 @@ __ `Viszonválaszok az induló gyenge viszonválaszára`_
   - Ugrás saját színben (min. hatos szín, 5-6 vesztő; jó nemes színnel és 5 vesztővel 14 FP is elég)
   - Ugrás a válaszoló színében (négyes támogatás, 5-6 vesztő)
   - Riverz (minor színű indulás után)
-  - Az indulásnál magasabb rangú szín licitje a kettes magasságon
+    Az indulásnál magasabb rangú szín licitje a kettes magasságon
     (az első szín hosszabb a másodiknál, 1 minor-1 szan után a második szín lehet hármas is)
 
 - `Erős (gémig kényszerítő) viszonválaszok`__:
