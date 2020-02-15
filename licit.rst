@@ -43,6 +43,12 @@ Szlemlicitek__
 
 __ Szlem_
 
+`Indító kijátszás`__
+
+__ Inditas_
+
+Jelzések_
+
 Részletes tartalomjegyzék
 -------------------------
 
@@ -147,6 +153,15 @@ Szlemlicitek_
 - `Kickback Kulcskártya Blackwood`_
 - `Gerber ászkérdés`_
 - `Kulcslicitek`_
+
+.. _Inditas:
+
+`Indító kijátszás`_
+
+- `Indító kijátszás szanjátékban`_
+- `Indító kijátszás színjátékban`_
+
+Jelzések_
 
 Alapfogalmak
 ============
@@ -1550,3 +1565,130 @@ Akkor, ha már kiderült a vonal aduszíne (emelés, splinter, stb.)
 - Egy olyan szín bemondása, amelynek licitálására már lett volna lehetőség:
   A szín második menetének fogása (K vagy szingli)
 - Visszatérés az aduszínre: Nincs bemondható kulcslap
+
+`Indító kijátszás`__
+====================
+
+__ Tartalomjegyzék_
+
+`Indító kijátszás szanjátékban`__
+---------------------------------
+
+__ Tartalomjegyzék_
+
+*Melyik színt válasszuk?*
+
+- Partner által licitált szín (de ha szingli, akkor nézzük meg, van-e jobb)
+- Felvevők által licitálatlan hosszú szín (ha több is van, akkor az erősebb)
+- Olyan szín, amiben a licit alapján nem erősek a felvevők
+- A dubló ritkán jó indulás (ha a partner nem licitálta)
+- Kerüljük a magas villás (AQ/KJ) színeket (veszélyes, ütést adhat)
+- Kerüljük a négylapos egyfigurás színeket (veszélyes, ütést adhat)
+- Ha a felvevők nem tűnnek nagyon erősnek, kerüljük a veszélyes indulásokat
+  (tehát lehetőleg érintkező figurás, vagy pedig figurátlan szín a jó)
+- Szlemnél jobb passzívnak lenni (pl. leghosszabb figurátlan szín)
+
+*Mivel induljunk?*
+
+- AKx+ => A
+- 3+ figura, az első kettő érintkező, a harmadik max. egyet ugrik
+  => ld. `a jelzéseknél leírtakat`__ (A/Q: hozzáállás, K: figuradobás/hossz)
+- 3+ figura, a második-harmadik érintkező => érintkezőkből a magasabb
+- 2 lap => a magasabb
+- 3 lap, 2 érintkező figura => érintkezőkből a magasabb
+- 3 lap, 1 figura (vagy nem érintkező figurák) => a legalsó
+- Egyéb figurás színből felülről a negyedik
+- Figurátlan színből felülről a második
+
+__ Jelzések_
+
+`Indító kijátszás színjátékban`__
+---------------------------------
+
+__ Tartalomjegyzék_
+
+*Melyik színt válasszuk?*
+
+- Partner által licitált szín / licitálatlan szín [magasításra]
+- Rövid szín (szingli, esetleg dubló), ha van legalább két adu [lopásra],
+  de a felvevők által licitált szín általában nem tanácsos
+- Adu [felvevők rövidítése] (ha a felvevők gyengék, vagy 3-4 színt licitáltak)
+- Ötös magasság alatt ne legyen benne magányos (K nélküli) A
+- Kisszlemnél érdemes támadni, de nagyszlemnél jobb passzívnak lenni (pl. adu)
+
+*Mivel induljunk?*
+
+- Aduból alulról
+- 2+ érintkező figura => érintkezőkből a magasabb (A/Q: hozzáállás, K: hossz)
+- 2 lap => a magasabb
+- 3 lap, 2 érintkező figura => érintkezőkből a magasabb
+- 3 lap, 1 figura (vagy nem érintkező figurák) => a legalsó
+- Egyéb figurás színből felülről a negyedik,
+  de magányos A mellől ne induljunk, hívjuk le az A-t
+- Figurátlan színből felülről a második
+
+Jelzések__
+==========
+
+__ Tartalomjegyzék_
+
+*Általános*
+
+- A jelzés kedvéért nem szabad ütést veszteni, hallgassunk a józan észre
+- Ne jelezzünk, ha csak a felvevőnek segítene
+- Jelezni általában a lehető legalacsonyabb/legmagasabb lappal érdemes
+- A jelzés nem parancs, a partnernek nem muszáj engedelmeskednie
+- Ütésbe belerakott figura jelzi az alatta levőt,
+  tagadja a felette levőt (szan: Q => QJT+, szín: Q => QJ+)
+- Érintkező figurák közül az alacsonyabbal szokás ütni
+
+*Hozzáállás jelzés*
+
+- Magas lap: folytassuk a színt
+- Alacsony lap: ne folytassuk a színt
+- Szannál általában a pozitív jelzés legalább egy kulcsfigurát jelent
+- Színnél jelenthet dublót is (ha van esélyünk a lopásra)
+- Nem elég a saját lapot figyelni, a lényeg, hogy érdemes-e folytatni
+
+*Hossz jelzés*
+
+- Magas[-alacsony] lap: páros (a lap eldobása előtt)
+- Alacsony[-magas] lap: páratlan (a lap eldobása előtt)
+- 4 kártyából először felülről a második, majd a harmadik lapot dobjuk
+
+*Szín preferencia jelzés*
+
+- Magas lap: a maradék színek közül a magasabb jó
+- Alacsony lap: a maradék színek közül az alacsonyabb jó
+- Dobással jelzés: dobjunk a nem jó színekből
+- A dobott lapok nagysága a (nem jó) szín hosszát mutatja
+
+*Mikor hogyan jelezzünk?*
+
+- Általában hosszat jelezzünk
+- A partner A és Q indulásánál hozzáállást jelezzünk
+  (akkor jó, ha a partner rövid belőle (<4 lap), különben a hossz érdekesebb)
+- Ötös magasságon és afelett a partner A indulása nem ígér K-t;
+  a pozitív hozzáállás azt mondja, hogy nálunk van
+- Szan játéknál a K indulás +2 figurát ígér, ezért elblokkolás-elhárítást kér,
+  tehát figurát (J/Q) - ha nincs, akkor marad a hossz jelzés
+- Ha a hozzáállás kiderül az asztal lapjaiból, jelezzünk hosszt
+- Ha világos, hogy a partnernek a hozzáállás/hossz nem érdekes,
+  vagy már egyszer adtunk jelzést, akkor szín preferenciát jelezzünk
+- Amikor azért hívunk, hogy a partner lopja, akkor is szín preferenciát jelzünk
+
+*Különleges jelzések*
+
+- Ha át akarjuk venni az ütést, jelezzük a magasabbal az érintkező figuráinkból
+- Aduban 3+ aduval és lopási eséllyel magas-alacsony jelzés
+- Szan játékban a felvevő első hívására magas-alacsony/alacsony-magas jelzéssel
+  hozzáállást mutatunk, de nem ebből a színből, hanem az induló színből [Smith]
+  (kivétel, ha egyértelmű, hogy a felvevő által hívott színből fontos a hossz,
+  mert az asztalon ez a szín hosszú, és nincs az asztalra más átmenet)
+- A Smitht mindketten jelzik (így az induló is tudja jelezni, milyen a színe)
+
+*Partner színének visszahívása*
+
+- Eredetileg 3 lapból a magasabbat
+- Eredetileg 4+ lapból a felülről eredetileg negyedik lapot
+- De ha elblokkolás-veszély van, akkor érdemes magasabbat
