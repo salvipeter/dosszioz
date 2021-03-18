@@ -1003,7 +1003,7 @@ __ `Válaszok egyes színközbeszólás után`_
 - `1 szan`__: Ua., mint indulásnál, és az ellenvonal színében erős fogás
   (1 szan közbeszólás után van Stayman, van Texas-transzfer, de nincs Jacoby-transzfer)
 - `Ugró színlicit`__ a kettes magasságon: Gyenge kettesnek megfelelő lap
-- `Ugró színlicit`__ a hármas magasságon (nem treff):
+- `Ugró színlicit`__ a hármas magasságon vagy afölött (de nem 3 treff):
   Min hetes szín, kizáró jellegű (`2-3-4 szabály`__)
 - `Felüllicit`__ (Ghestem): Max. 6 vesztő, min. 5-5 a két szélső színben:
   Treffnél káró és pikk, kárónál treff és pikk, kőrnél szintén, pikknél treff és kőr 
