@@ -485,19 +485,18 @@ __ `Viszonválaszok az induló gyenge viszonválaszára`_
 
   - Saját szín ismétlése (min. hatos szín, minor ritkán lehet ötös is)
   - A partner színének sima emelése (négyes aduval, 13-16 asztali ponttal)
-  - Új szín egyes magasságon (legalább négyes szín, nincs négyes támogatás, 12-18 FP)
+  - Új szín egyes magasságon (legalább négyes szín, nincs négyes támogatás, 12-18 Fp)
   - Új szín kettes magasságon az indulásnál alacsonyabb rangú színben
-    (kényszerítő szan után hármas minorral is, ha mindkét minor hármas, akkor 2 treff, 12-18FP)
+    (kényszerítő szan után hármas minorral is, ha mindkét minor hármas, akkor 2 treff, 12-18 Fp)
   - 1 szan (lehetőleg fogással a nem licitált színekben)
 
 - Invitek:
 
-  - 2 szan nemes indulás, ill. 1 treff-1 káró, 1 treff-1 szan, 1 káró-1 szan után
-    (egyenletes lap, fogás a nem licitált színekben)
-  - Új szín egyes magasságon (legalább négyes szín, nincs négyes támogatás, 12-18 FP)
+  - 2 szan (egyenletes lap, fogás a nem licitált színekben)
+  - Új szín egyes magasságon (legalább négyes szín, nincs négyes támogatás, 12-18 Fp)
   - Új szín kettes magasságon az indulásnál alacsonyabb rangú színben
-    (kényszerítő szan után hármas minorral is, ha mindkét minor hármas, akkor 2 treff, 12-18FP)
-  - Ugrás saját színben (min. hatos szín, 5-6 vesztő; jó nemes színnel és 5 vesztővel 14 FP is elég)
+    (kényszerítő szan után hármas minorral is, ha mindkét minor hármas, akkor 2 treff, 12-18 Fp)
+  - Ugrás saját színben (min. hatos szín, 5-6 vesztő; jó nemes színnel és 5 vesztővel 14 Fp is elég)
   - Ugrás a válaszoló színében (négyes támogatás, 5-6 vesztő)
   - Riverz (minor színű indulás után)
     Az indulásnál magasabb rangú szín licitje a kettes magasságon
@@ -507,14 +506,13 @@ __ `Viszonválaszok az induló gyenge viszonválaszára`_
 
 __ `Viszonválaszok az induló erős viszonválaszára`_
 
-  - 2 szan minor indulás utáni nemes színű választ követően (18-21 FP)
-  - Gémbemondás (max. 5 vesztő és jó elosztás esetén 14 FP is elég)
-  - Ugrás új színben (legalább négyes szín, már 18 FP-tól mondható)
+  - Gémbemondás (színjátékban max. 5 vesztő és jó elosztás esetén 14 Fp is elég)
+  - Ugrás új színben (legalább négyes szín, már 18 Fp-tól mondható)
   - Splinter [dupla ugrás új színben]
     (19-21 asztali pont, min. négyes adu, bemondott színben rövidség, max. 5 vesztő)
   - Riverz (nemes indulás után)
     Az indulásnál magasabb rangú szín licitje a kettes magasságon
-    (az első szín hosszabb a másodiknál, már 18 FP-tól mondható)
+    (az első szín hosszabb a másodiknál, már 18 Fp-tól mondható)
   - Ugrás saját olcsó színben a négyes magasságra nemes válasz után
     (négyes adu, min. 19 asztali pont, jó hatos minor)
 
@@ -545,7 +543,7 @@ __ `A válaszoló viszonválaszai erős saját első válasz után`_
 
   - Új szín (fogást licitál, kísérlet 3 szanra, gyenge lappal is lehet)
 
-- Erős viszonválaszok (15-21 FP):
+- Erős viszonválaszok (15-21 Fp):
 
   - Gémbemondás
   - Ugró új szín (mellékszín, felmagasításával a szlem is elképzelhető)
@@ -563,7 +561,7 @@ __ `A válaszoló viszonválaszai erős saját első válasz után`_
 - Hármas, de inkább négyes aduval emeli társa színét
 - Plusz erővel ugorva
   (Kivétel: 1 pikk-2 kőr után a 3 kőr szleminvit, a 4 kőr leállás)
-- Ugró új szín: Splinter (szlemjellegű lap: 15-21FP, rövidség, adutámogatás)
+- Ugró új szín: Splinter (szlemjellegű lap: 15-21 Fp, rövidség, adutámogatás)
 
 `Viszonválaszok Jacoby 2 szan után`__
 .....................................
@@ -593,7 +591,7 @@ __ Szlemlicitek_
 
 Ha a válaszoló rövid színében csak kis lapok, vagy Axxx van, 
 akkor minimális erővel is szlemet kereshetünk. Ász nélküli figurák,
-vagy rövidség esetén csak min. 18 FP-tal lehet szlemesély.
+vagy rövidség esetén csak min. 18 Fp-tal lehet szlemesély.
 
 `Viszonválaszok ugró új szín után`__
 ....................................
@@ -713,7 +711,7 @@ A válaszoló viszonválaszai egyes színindítás esetén
 Viszonválaszok az induló gyenge viszonválaszára
 ...............................................
 
-- Gyenge viszonválaszok (6-10 FP)
+- Gyenge viszonválaszok (6-10 Fp)
 
   - Saját szín ismétlése (hatos szín, ritka esetben lehet ötös nemes)
   - Igazítás (minornál ritkán hármas, nemesnél ritkán kettes támogatással is,
@@ -725,7 +723,7 @@ Viszonválaszok az induló gyenge viszonválaszára
   - Kényszerító 1 szan után új szín ugrás nélkül (lehet a 3-as magasságon is)
   - Passz (megfelel neki az induló második licitje)
 
-- Invitek (10-12 FP):
+- Invitek (10-12 Fp):
 
   - 2 szan (egyenletes lap, fogás a nem licitált színekben, nincs nemes színű adutámogatás)
   - Az induló bármelyik színének ugrás nélküli emelése a 3-as magasságra
@@ -736,7 +734,7 @@ Viszonválaszok az induló gyenge viszonválaszára
 
 __ `Válaszok a Kantar-konvencióra`_
 
-- Gémerős viszonválaszok (13-30 FP)
+- Gémerős viszonválaszok (13-30 Fp)
 
   - `2 treff`__ (Kantar-konvenció) 1 olcsó-1 nemes-1 szan után
   - Gémbemondás szanban vagy már licitált színben
@@ -962,19 +960,19 @@ Válaszok a Kantar-konvencióra
 
 - Válaszok 1 kőr első válasz esetén:
 
-  - 2 káró (nincs hármas kőr, 10-14 FP)
-  - 2 kőr (hármas kőr, 10-14 FP)
-  - 2 szan (nincs hármas kőr, 15-16 FP)
-  - 3 kőr (hármas kőr, 15-16 FP)
+  - 2 káró (nincs hármas kőr, 10-14 Fp)
+  - 2 kőr (hármas kőr, 10-14 Fp)
+  - 2 szan (nincs hármas kőr, 15-16 Fp)
+  - 3 kőr (hármas kőr, 15-16 Fp)
 
 - Válaszok 1 pikk első válasz esetén
 
-  - 2 káró (nincs hármas pikk, nincs négyes kőr, 10-14 FP)
-  - 2 kőr (nincs hármas pikk, négyes kőr, 10-14 FP)
-  - 2 pikk (hármas pikk, 10-14 FP)
-  - 2 szan (nincs hármas pikk, nincs négyes kőr, 15-16 FP)
-  - 3 kőr (nincs hármas pikk, négyes kőr, 15-16 FP)
-  - 3 pikk (hármas pikk, 15-16 FP)
+  - 2 káró (nincs hármas pikk, nincs négyes kőr, 10-14 Fp)
+  - 2 kőr (nincs hármas pikk, négyes kőr, 10-14 Fp)
+  - 2 pikk (hármas pikk, 10-14 Fp)
+  - 2 szan (nincs hármas pikk, nincs négyes kőr, 15-16 Fp)
+  - 3 kőr (nincs hármas pikk, négyes kőr, 15-16 Fp)
+  - 3 pikk (hármas pikk, 15-16 Fp)
 
 `Közbeszólások`__
 =================
@@ -996,7 +994,7 @@ __ `Válaszok információs kontra után`_
 __ `Válaszok egyes színközbeszólás után`_
 
   - Lehet négyes színnel is, ha az min. KBT9, és a lap nem alkalmas információs kontrára (min. 11 Fp)
-  - 9 FP esetén a szín inkább hatos, vagy nagyon jó ötös
+  - 9 Fp esetén a szín inkább hatos, vagy nagyon jó ötös
   - Újranyitó helyzetben az egyes magasságon 8-16 Fp, négyes szín
 
 - `Színlicit kettes magasságon ugrás nélkül`__: Min 13 Fp, min. ötös szín figurával
@@ -1035,9 +1033,9 @@ __ `Válaszok gyenge kettes indulás utáni közbeszólásokra`_
     Max. 7 vesztő, de ha van min. 12 Fp, akkor 8 vesztővel is kontrázhatunk
   - B: Min 18 Fp
 - Színlicit: Min. hatos (ritkán ötös) jó szín,
-  kettes magasságon 11-17 FP, hármas magasságon 13-18 FP
-- 2 szan: 16-19 FP, fogás az induló színében
-- 3 szan: 20-22 FP, fogás az induló színében
+  kettes magasságon 11-17 Fp, hármas magasságon 13-18 Fp
+- 2 szan: 16-19 Fp, fogás az induló színében
+- 3 szan: 20-22 Fp, fogás az induló színében
 
 `Közbeszólások 1 szan után`__
 -----------------------------
@@ -1050,7 +1048,7 @@ __ `Válaszok 1 szan indulás utáni közbeszólásokra`_
 
     - A: min. hatos szín, magasításához elegendő külső beütéssel
     - B: min. 16 Fp, két min. ötös szín
-    - C: min. 16 FP, min. 3 színben jó fogás (lehetőleg villás színek)
+    - C: min. 16 Fp, min. 3 színben jó fogás (lehetőleg villás színek)
 
   - 2 treff: 10-15 pont, egyszínű kéz (Min. hatos, jó szín kell hozzá)
   - 2 káró: 10-15 pont, min. ötös-ötös kőr és pikk
@@ -1075,15 +1073,15 @@ Válaszok közbeszólásokra
 Válaszok egyes színközbeszólás után
 -----------------------------------
 
-- Passz: 0-7 FP,vagy nincs találkozás, nincs jó saját szín
+- Passz: 0-7 Fp,vagy nincs találkozás, nincs jó saját szín
 - Sima emelés: 6-9 asztali pont, 3 vagy több adu
-- 1 szan: 8-10 FP, fogás az ellenfél színében, nincs találkozás
-- Új szín: 7-12 FP, min. négyes szín
-- 2 szan: 11-13 FP, fogás az ellenfél színében, nincs találkozás
-- Ugró emelés: 10-12 AP, 3 vagy több adu
-- Ugró új szín: 10-13 FP, jó hatos szín
-- 3 szan: Min. 14 FP jó fogásokkal, passzt kér
-- Felüllicit: Min. 12 FP, ált. gémig kényszerítő, sokféle laptípus lehet
+- 1 szan: 8-10 Fp, fogás az ellenfél színében, nincs találkozás
+- Új szín: 7-12 Fp, min. négyes szín
+- 2 szan: 11-13 Fp, fogás az ellenfél színében, nincs találkozás
+- Ugró emelés: 10-12 Ap, 3 vagy több adu
+- Ugró új szín: 10-13 Fp, jó hatos szín
+- 3 szan: Min. 14 Fp jó fogásokkal, passzt kér
+- Felüllicit: Min. 12 Fp, ált. gémig kényszerítő, sokféle laptípus lehet
   (Ha az induló megismétli színét, akkor az lepasszolható)
 - Ugró felüllicit: Erős lap, általában szélsőséges elosztással, a szlem is lehetséges
 - Gémre emelés: min. 4 adu, elosztásos kéz, max. 7 vesztő, nem lát szlemet
@@ -1096,13 +1094,13 @@ Válaszok ugrás nélküli kettes magasságú közbeszólás után
 - Új szín: Min. 9 Fp, min. négyes szín, tagadja a színtalálkozást, nem forsz
 - Színemelés: 9-11 Ap, géminvit
 - 2 szan: 9-12 Fp, géminvit
-- Felüllicit: Min. 11 FP, kényszerítő, sokféle laptípus lehet
+- Felüllicit: Min. 11 Fp, kényszerítő, sokféle laptípus lehet
 - Ugró felüllicit: Erős lap, általában szélsőséges elosztással, a szlem is lehetséges
 
 Válaszok ugró színközbeszólás után
 ----------------------------------
 
-- Passz: 0-7 FP,vagy nincs találkozás, nincs jó saját szín
+- Passz: 0-7 Fp,vagy nincs találkozás, nincs jó saját szín
 - Emelés: Kizáró, passzt kér
 - 2 szan: Ogust konvenció (ld. ott)
 - Új minor szín: Kettes magasságú közbeszólás esetén passzolható
@@ -1117,15 +1115,15 @@ Válaszok információs kontra után
 --------------------------------
         
 - Passz: Az indulás színében min QJ10982 aduindulást kér, ha ez lesz a felvétel
-- `Színlicit ugrás nélkül`__: 0-8 FP, a leghosszabb szín a legalacsonyabb magasságon
+- `Színlicit ugrás nélkül`__: 0-8 Fp, a leghosszabb szín a legalacsonyabb magasságon
   (Hármas hosszúságú is lehet, négyes nemes és ötös minor esetén a nemes színt kell bemondani)
-- `Ugró új szín`__: 8-11 FP, min. négyes nemes, vagy ötös minor szín
-- Új szín dupla ugrással: 5-8 FP, min. ötös szín, elosztásos lap, kizáró
-  (Ha gém, akkor lehet több FP is)
-- 1 szan: 8-11 FP, jó fogás az indulás színében, nincs nemes találkozás
-- 2 szan: ugrás nélkül 9-12 FP, ugrással 12-14 FP,
+- `Ugró új szín`__: 8-11 Fp, min. négyes nemes, vagy ötös minor szín
+- Új szín dupla ugrással: 5-8 Fp, min. ötös szín, elosztásos lap, kizáró
+  (Ha gém, akkor lehet több Fp is)
+- 1 szan: 8-11 Fp, jó fogás az indulás színében, nincs nemes találkozás
+- 2 szan: ugrás nélkül 9-12 Fp, ugrással 12-14 Fp,
   jó fogás az indulás színében, nincs nemes találkozás
-- 3 szan: min. 14 FP, jó fogás
+- 3 szan: min. 14 Fp, jó fogás
 - Felüllicit: min. 13 Fp, gémig kényszerítő
 
   - a: mindkét nemes színben van segítség
@@ -1140,12 +1138,12 @@ __ `Információs kontra utáni további licitmenet`_
 Válaszok 1 szan közbeszólás után
 --------------------------------
 
-- Passz: 5-7 FP, szanra alkalmas lap
+- Passz: 5-7 Fp, szanra alkalmas lap
 - 2 treff: Stayman
-- 2 szín, ha nem felüllicit: leállás a licitált színben (nem transzfer, 0 FP is lehet)
-- 2 szan: 8-9 FP, invit
-- 3 szín (még akkor is, ha felüllicit): 6-8 FP, hatos szín, géminvit
-- 3 szan: Min. 9 FP, passzt kér
+- 2 szín, ha nem felüllicit: leállás a licitált színben (nem transzfer, 0 Fp is lehet)
+- 2 szan: 8-9 Fp, invit
+- 3 szín (még akkor is, ha felüllicit): 6-8 Fp, hatos szín, géminvit
+- 3 szan: Min. 9 Fp, passzt kér
 - 4 treff: Gerber-ászkérdés
 - 4 káró: Transzfer kőrre
 - 4 kőr: Transzfer pikkre
@@ -1289,19 +1287,19 @@ Információs kontra utáni további licitmenet
 
 - kontra - szín ugrás nélkül:
 
-  - Sima emelés: 16-18 AP
-  - Ugró emelés: 19-21 AP
-  - Gémre ugrás: min. 22 AP, nem lát szlemet
-  - Új szín: min. 16 FP, min. ötös szín
+  - Sima emelés: 16-18 Ap
+  - Ugró emelés: 19-21 Ap
+  - Gémre ugrás: min. 22 Ap, nem lát szlemet
+  - Új szín: min. 16 Fp, min. ötös szín
   - Ugró új szín: min. hetos szín, 8-9 játékütés
-  - 1 szan/2 szan ugrás nélkül: 18-20 FP, fogás az ellenfél színével
-  - 2 szan ugrással: 21-22 FP, fogás az ellenfél színével
+  - 1 szan/2 szan ugrás nélkül: 18-20 Fp, fogás az ellenfél színével
+  - 2 szan ugrással: 21-22 Fp, fogás az ellenfél színével
   - 3 szan: Hosszú, zárt minor, külső fogások
-  - Felüllicit: min. 20 FP, gémforsz
+  - Felüllicit: min. 20 Fp, gémforsz
 
 - kontra - ugró új szín:
 
-  - Passz: Nincs plusz erő, max. 13 FP
+  - Passz: Nincs plusz erő, max. 13 Fp
   - Színemelés: Invit
   - Új szín: min. ötös szín, kényszerítő
   - Felüllicit: gémforsz
@@ -1317,15 +1315,15 @@ Küzdelmi licitek
 
 - „Újranyitás” 3 passz után
 
-  - Indulóerő: FP+pikkek száma ≥ 15
-  - Gyenge kettes: 10-12 FP
+  - Indulóerő: Fp+pikkek száma ≥ 15
+  - Gyenge kettes: 10-12 Fp
   - A többi indulás változatlan
 
 - Újranyitás két passz után, ha az első helyen indultak
 
-  - Passz: 0-7 FP 
-  - Új szín: 8-16 FP (négyes is lehet)
-  - 1 szan: 12-16 FP
+  - Passz: 0-7 Fp 
+  - Új szín: 8-16 Fp (négyes is lehet)
+  - 1 szan: 12-16 Fp
   - Kontra: 
 
     - A: Indulóerő, négyes nemes (olcsó szín után 4-3/4-4 a nemesekben)
@@ -1335,28 +1333,28 @@ Küzdelem közvetlen helyzetben
 -----------------------------
 
 - Társ egyes színindulása, JE egyes színközbeszólása után
-- Sima emelés: 6-9 FP (minornál is)
-- Ugró emelés: 10-12 FP
-- 1 szan: 6-10 FP, fogás az ellenvonal színében, nem forsz
-- 2 szan: 11-12 FP, invit
-- 3 szan: min. 13 FP, fogás
-- Új szín az egyes magasságon: min. 6 FP, min. ötös szín, forsz
-- Új szín ugrás nélkül a kettes magasságon: min. 11 FP, min ötös szín, forsz
+- Sima emelés: 6-9 Fp (minornál is)
+- Ugró emelés: 10-12 Fp
+- 1 szan: 6-10 Fp, fogás az ellenvonal színében, nem forsz
+- 2 szan: 11-12 Fp, invit
+- 3 szan: min. 13 Fp, fogás
+- Új szín az egyes magasságon: min. 6 Fp, min. ötös szín, forsz
+- Új szín ugrás nélkül a kettes magasságon: min. 11 Fp, min ötös szín, forsz
 - Felüllicit: Ált. gémforsz, de legalább géminvit
 
-  - A: Fogást keres a közbeszóló színében
-  - B: Színtalálkozás nagyon jó lappal
+  - Olcsó szín (partner színe): Fogást keres a közbeszóló színében 3 szan felé
+  - Nemes szín (partner színe): Színtalálkozás nagyon jó lappal (min. 11 Fp)
 
 - Kontra (negatív): Négyes nemes, vagy ha azok már elhangzottak, minor színek
 
-  - Egyes színközbeszólás után bármennyi FP lehet, 
+  - Egyes színközbeszólás után bármennyi Fp lehet, 
   - 1treff-1 káró-kontra egyforma hosszú (min. négyes) nemeseket jelez
-  - Kettes színközbeszólás után 7-11 FP, A hármas magasságon ált. ötös szín, 8-12 FP, nem gémforsz
+  - Kettes színközbeszólás után 7-11 Fp, A hármas magasságon ált. ötös szín, 8-12 Fp, nem gémforsz
 
 1 szan közbeszólás után
 -----------------------
 
-  - Kontra: büntető, min. 10 FP
+  - Kontra: büntető, min. 10 Fp
   - Új szín: min. hatos szín, nem forsz
 
 1 szín indulás információs kontrája után
@@ -1367,25 +1365,25 @@ Küzdelem közvetlen helyzetben
   - Passz: max. 5 Fp
   - Rekontra: min. 11 Fp, ált. tagadja a (négyes) támogatást
   - Új szín az egyes magasságon: 6-10 Fp, min. négyes szín
-  - Új szín a kettes magasságon ugrás nélkül: 6-10 FP, nem forsz,
+  - Új szín a kettes magasságon ugrás nélkül: 6-10 Fp, nem forsz,
     min. hatos szín, vagy nagyon jó ötös
   - Sima emelés: Min. 11 Fp, min. négyes támogatás
-  - 1 szan: ???
+  - 1 szan: 6-10 Fp, nincs négyes nemes (lehetőleg fogással a nemes színekben)
   - Ugró emelés: 6-10 Fp, min. négyes támogatás, kizáró
   - 2 szan (Jordan): min. 11 Fp, min. ötös támogatás, nincs négyes nemes
 
 - 1 nemes indulás információs kontrája után
 
   - Passz: Gyengeség, nincs találkozás
-  - Rekontra: min. 11FP, ált. tagadja a (hármas) támogatást
+  - Rekontra: min. 11 Fp, ált. tagadja a (hármas) támogatást
     (Az ellenfél menekülése esetén büntető kontrát javasol)
   - 1 kőr indulásnál 1 pikk: 6-10 Fp, min. négyes pikk, nincs hármas kőr
-  - Új szín a kettes magasságon ugrás nélkül: 6-10 FP, nem forsz,
+  - Új szín a kettes magasságon ugrás nélkül: 6-10 Fp, nem forsz,
     min. hatos szín támogatás nélkül
   - Sima emelés: Kizáró, még dubló segítséggel is lehet
   - 1 szan: mesterséges, min. 6 Ap, 3 adu
-  - Ugró emelés: 6-10 AP, min. 4 adu
-  - 2 szan (Jordan): min. 10 AP, min. 3 adu
+  - Ugró emelés: 6-10 Ap, min. 4 adu
+  - 2 szan (Jordan): min. 10 Ap, min. 3 adu
   - Gémre emelés: min. 4 adu, kizáró
 
 1 szan indulás utáni közbeszólás után
